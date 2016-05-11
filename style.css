@@ -28,8 +28,15 @@ h3 {
 }
 h4 {
 	font-size: 1.414em;
-	font-weight: 700;
+	font-weight: 400;
+	text-decoration: underline;
 	padding: 0 0 15px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
 }
 ul {
 	list-style: none;
