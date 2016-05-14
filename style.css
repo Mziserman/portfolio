@@ -1,3 +1,7 @@
+body{
+  background-image: url(crossword.png);
+  background-repeat:repeat;
+}
 p, ul {
 	padding: 0 0 10px;
 	margin: 0;
@@ -37,6 +41,9 @@ a {
 }
 a:hover {
 	text-decoration: underline;
+}
+a:visited {
+
 }
 ul {
 	list-style: none;
